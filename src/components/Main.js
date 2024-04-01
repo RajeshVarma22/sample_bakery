@@ -22,7 +22,7 @@ function Main() {
       <Header />
 
       <div className=" w-full h-screen bg-fixed bg-wall bg-fill bg-no-repeat  md:bg-cover bg-center md:bg-top">
-        <div className="w-full md:w-1/2 px-3 text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-lg bg-secondarytrans" >
+        <div className="w-full md:w-1/2 px-3 text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-lg" >
           <h1 className="font-domion md:text-9xl text-7xl text-primary">
             Bakery
           </h1>
